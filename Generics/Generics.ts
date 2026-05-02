@@ -17,5 +17,5 @@ interface login<T> {
 }
 
 function kumar(obj: login<string>){
-    obj.
+    
 }
