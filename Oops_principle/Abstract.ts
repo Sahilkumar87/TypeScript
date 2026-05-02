@@ -10,10 +10,10 @@ class payment{
                                    
 class Paytm extends payment{
     account = 1243434343;
-    amount = 1;
+    amount = 1; 
 
 }
 
 
 
-console.log("hii");
+console.log("good night!");
